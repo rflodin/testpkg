@@ -1,0 +1,8 @@
+Package: testpkg
+Title: Package for testing
+Version: 0.1.1
+Author: Rachel
+Maintainer: <noemail@noemail.com>
+License: Artistic-2.0
+Description: An example package for testing.
+LazyData: true
